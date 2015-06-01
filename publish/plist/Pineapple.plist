@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/LaughDaxiong/pineapple/raw/master/publish/ipa/Pineapple.ipa</string>
+					<string>https://raw.githubusercontent.com/LaughDaxiong/pineapple/master/publish/ipa/Pineapple.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
