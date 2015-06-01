@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.42.45.158:8088/publish/ipa/Pineapple.ipa</string>
+					<string>https://github.com/LaughDaxiong/pineapple/raw/master/publish/ipa/Pineapple.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://121.42.45.158:8088/publish/img/Pineapple.png</string>
+					<string>https://raw.githubusercontent.com/LaughDaxiong/pineapple/master/publish/img/Pineapple.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://121.42.45.158:8088/publish/img/Pineapple.png</string>
+					<string>https://raw.githubusercontent.com/LaughDaxiong/pineapple/master/publish/img/Pineapple.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
